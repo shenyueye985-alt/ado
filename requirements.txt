@@ -1,0 +1,2 @@
+pyportfolioopt==1.6.0
+matplotlib==3.11.2
